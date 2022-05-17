@@ -1,10 +1,7 @@
 Introduction
 ------------
 
-Hong Kong Covid19 Latest Trend 1.0 - Casca Kwok
+By studying the Iris dataset as a hello world of first machine learning code, the code is to build a classification decision tree by means of sklearn and google colab notebook.
 
-https://hkcbc.pythonanywhere.com/
-
-A daily python tool I used to track every day the latest trend of covid 19 situation in Hong Kong.  
-
-The original purpose of the tool, dating back to the beginning of pandemics (Mar 2020), was to track if I was in potential contact of virus during my 16 hours flight back to Hong Kong.
+![image](https://user-images.githubusercontent.com/21034990/168701545-b460cafa-0873-4d30-b1ad-0f591058955e.png)
+(Photo credit https://medium.com/analytics-vidhya/exploratory-data-analysis-uni-variate-analysis-of-iris-data-set-690c87a5cd40)

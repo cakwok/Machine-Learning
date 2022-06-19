@@ -1,5 +1,3 @@
-### CS6140-Machine-Learning
-
 #### Assignment1 - Model decision Tree and linear regression
 To build a decision tree from scratch with the Iris dataset, and compare results with scilearn.<br>
 To build a linear regression to model Iris species classification, based on sepal and fepal width and length.<br>

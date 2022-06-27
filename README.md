@@ -4,5 +4,5 @@ To build a linear regression to model Iris species classification, based on sepa
 To compare performance of batch gradient descent with stochastic gradient descent.<br>
 
 #### Assignment2 - Model logistic and perceptron regression
-To build logistic and perceptron regression, with a default credit card dataset from Kaggle.<br>
-To compare accuracy, precision, recall with the models.<br>
+To model default credit card predictors by logistic and perceptron regression, with a default payments of credit Card clients dataset of Taiwan from Kaggle. <br><br>
+To compare accuracy, precision, recall with both models, and also compared the result with normalized and raw data.  

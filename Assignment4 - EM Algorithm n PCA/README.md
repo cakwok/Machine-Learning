@@ -1,4 +1,6 @@
-Q2.  Parkinson's Disease (PD) Classification
+Assignment4 - Q2 PCA.ipynb 
+
+Parkinson's Disease (PD) Classification
 
 dataset:  UCI Parkinson's Disease Classification Data Set https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification#
 

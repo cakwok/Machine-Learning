@@ -1,8 +1,8 @@
-#### Assignment4 - Q2 PCA.ipynb 
+### Assignment4 - Q2 PCA.ipynb 
 
 Parkinson's Disease (PD) Classification by PCA[^1][^2][^3]
 
-<img src = "https://user-images.githubusercontent.com/21034990/180061838-c4de1e0c-322f-43ac-b191-e1ae477e8cbb.png" width=500>
+<img src = "https://user-images.githubusercontent.com/21034990/180061838-c4de1e0c-322f-43ac-b191-e1ae477e8cbb.png" width=600>
 (image source: https://www.youtube.com/watch?v=ckn9zybpYZ8)
 <br><br><br>
 

@@ -12,3 +12,6 @@ Random forest classifer by MNIST dataset
 
 #### Assignment4 - EM Algorithm, PCA, Anomaly Detection
 Parkinson's Disease (PD) Classification by PCA
+
+#### Project - Kaggle Paddy Disease Detection
+To classify paddy healthiness and diseases by Resnet34

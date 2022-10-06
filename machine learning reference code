@@ -1,0 +1,18 @@
+
+capitalise words
+----------------
+s.capitalize()
+
+split a sentence into a list of words
+-------------------
+string = "codespeedy is the best"
+string.split(separator, max_split)
+
+reverse elements in a list
+-----
+string.reverse()
+
+remove character from a string
+----
+s = 'abc12321cba'
+print(s.replace('a', ''))
